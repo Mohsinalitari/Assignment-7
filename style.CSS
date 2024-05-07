@@ -1,0 +1,66 @@
+#short {
+    
+    margin-left: 0px;
+    margin-right: 0px;
+    font-size: x-large;    
+}
+#try {
+    
+    /*width: 20px;
+    height: 20px;*/
+    }
+#logo {
+        display: flex;
+        justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: x-large;   
+    } 
+
+#coral {  background-color: coral;
+       
+        }
+#notion {
+    display: flex;
+        justify-content: space-between;
+    margin-left: 0px;
+    margin-right: 5%;
+    font-size:large;
+   
+}
+#meeting{
+    display: flex;
+    justify-content:space-between;
+margin-left: 0px;
+margin-right: 5%;
+font-size:large;
+        }
+#bookshelf {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+margin-left: 5%;
+margin-right: 5%;
+font-size:x-large;
+}
+#mg{
+    display: flex;
+    justify-content: start;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+    }
+#footer{
+    align-content: start;
+    width: 90%;
+    margin-top: 70px;
+        margin-left: 50px;
+        margin-right: 30px;
+}
+#row {
+     font-size: x-large;
+}
+#hr {
+    margin-left: 30px;
+    margin-right: 30px;
+}
